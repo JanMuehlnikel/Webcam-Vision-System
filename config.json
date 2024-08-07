@@ -1,0 +1,9 @@
+{
+    "cfg_path": "yolov3.cfg",
+    "weights_path": "yolov3.weights",
+    "names_path": "coco.names",
+    "confidence_threshold": 0.5,
+    "nms_threshold": 0.4,
+    "frame_width": 640,
+    "frame_height": 480
+}
